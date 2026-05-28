@@ -18,7 +18,7 @@ if using other distro you need: `pamixer` `hyprpaper` `gnome-themes-extra` `jq` 
 # install dots
 1. clone repository
 ```bash
-git clone https://github.com/retrojan/dots-hypr.git && cd dots-hypr
+git clone https://github.com/retrojan/dots4hypr.git && cd dots4hypr
 ```
 2. copy files
 ```
